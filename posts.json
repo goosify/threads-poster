@@ -59,7 +59,9 @@
   "id": 34,
   "at": "2026-10-18T14:30:00-07:00",
   "text": "🪿 prices drop at an extra digit.\n\n$9 works. $10 doesn't.\n$99 works. $100 doesn't.\n$999 works. $1,000 doesn't.",
-  "status": "pending"
+  "status": "posted",
+  "threads_id": "17994537483104430",
+  "posted_at": "2026-10-18T21:40:15.603765+00:00"
  },
  {
   "id": 35,
