@@ -1443,7 +1443,9 @@
   "id": 209,
   "at": "2026-10-23T23:11:00-06:00",
   "text": "🪿 granular onboarding works:\n post a comment, earn five likes, unlock the next module.",
-  "status": "pending"
+  "status": "posted",
+  "threads_id": "18147190831601719",
+  "posted_at": "2026-10-24T05:17:31.912960+00:00"
  },
  {
   "id": 210,
