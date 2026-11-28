@@ -8145,7 +8145,9 @@
   "id": 2201,
   "at": "2026-11-27T19:15:00-07:00",
   "text": "🪿 how to run clean tests?\n\nchange one variable only.\nlet each change run for a month before judging it.\n\nmessy tests give messy data.",
-  "status": "pending"
+  "status": "posted",
+  "threads_id": "18091741769288592",
+  "posted_at": "2026-11-28T02:15:53.301359+00:00"
  },
  {
   "id": 2202,
